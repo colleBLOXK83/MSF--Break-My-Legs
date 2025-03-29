@@ -34,7 +34,7 @@ python3 MSF_FCR.py
 
 
 ## 📸 Screenshots
-![MSF-Break-My-Legs](https://imgur.com/a/yYcbDMy)
+![MSF-Break-My-Legs](img/xbBmCko.png)
 
 ## 🏗 Contributing
 Pull requests are welcome! Please follow these steps:
